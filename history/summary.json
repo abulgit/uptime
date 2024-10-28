@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bknd-api.glitch.me.ico",
     "slug": "glitch",
     "status": "up",
-    "uptime": "71.01%",
-    "uptimeDay": "71.01%",
-    "uptimeWeek": "71.01%",
-    "uptimeMonth": "71.01%",
-    "uptimeYear": "71.01%",
-    "time": 285,
-    "timeDay": 285,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
-    "dailyMinutesDown": {
-      "2024-10-28": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 259,
+    "timeDay": 259,
+    "timeWeek": 259,
+    "timeMonth": 259,
+    "timeYear": 259,
+    "dailyMinutesDown": {}
   }
 ]
