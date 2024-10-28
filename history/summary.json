@@ -4,19 +4,19 @@
     "url": "https://bknd-api.glitch.me/ping",
     "icon": "https://icons.duckduckgo.com/ip3/bknd-api.glitch.me.ico",
     "slug": "glitch",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
-    "time": 249,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "71.01%",
+    "uptimeDay": "71.01%",
+    "uptimeWeek": "71.01%",
+    "uptimeMonth": "71.01%",
+    "uptimeYear": "71.01%",
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 3
     }
   }
 ]
