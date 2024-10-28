@@ -7,7 +7,7 @@ sites:
     url: https://bknd-api.glitch.me/ping
     method: GET
     expectedStatusCodes:
-      - 404
+      - 200
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
