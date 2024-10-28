@@ -8,6 +8,9 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
+  - name: GitHub
+    url: https://github.com/
+    
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -22,7 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 
   baseUrl: /Uptime
-  theme: night
+  theme: ocean
   logoUrl: https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg
   name: Upptime
   introTitle: "**Status For Websites**"
