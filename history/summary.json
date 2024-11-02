@@ -4,18 +4,20 @@
     "url": "https://bknd-api.glitch.me/ping",
     "icon": "https://icons.duckduckgo.com/ip3/bknd-api.glitch.me.ico",
     "slug": "glitch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4265,
-    "timeDay": 12576,
-    "timeWeek": 4265,
-    "timeMonth": 4265,
-    "timeYear": 4265,
-    "dailyMinutesDown": {}
+    "time": 4003,
+    "timeDay": 6589,
+    "timeWeek": 4003,
+    "timeMonth": 4003,
+    "timeYear": 4003,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "GitHub",
