@@ -4,7 +4,7 @@
     "url": "https://bknd-api.glitch.me/ping",
     "icon": "https://icons.duckduckgo.com/ip3/bknd-api.glitch.me.ico",
     "slug": "glitch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 10056,
     "timeMonth": 6059,
     "timeYear": 6059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-10": 0
+    }
   },
   {
     "name": "GitHub",
