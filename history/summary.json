@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8478,
-    "timeDay": 19280,
-    "timeWeek": 12103,
-    "timeMonth": 10382,
-    "timeYear": 8478,
+    "time": 8600,
+    "timeDay": 14567,
+    "timeWeek": 11382,
+    "timeMonth": 10838,
+    "timeYear": 8600,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 142,
-    "timeDay": 126,
-    "timeWeek": 88,
-    "timeMonth": 141,
-    "timeYear": 142,
+    "time": 140,
+    "timeDay": 37,
+    "timeWeek": 85,
+    "timeMonth": 138,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2024-12-04": 23
     }
